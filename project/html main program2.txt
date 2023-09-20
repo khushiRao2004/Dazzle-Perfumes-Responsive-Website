@@ -1,0 +1,28 @@
+<div class="container">
+        <div class="navbar">
+            <a href="#"></a><img src="image/logo3.png" class="logo
+            " alt=""></a>
+            <nav>
+               <ul>
+                <li><a class="active" href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>    
+               </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="content">
+        <h4>Trade-in-offer</h4>
+        <h2>Super value deals</h2>
+        <h1>On all products</h1>
+        <p>Save more with coupons & up to 70% off!</p>
+        <button>Shop Now</button>
+    </div>
+
+    
+    <img src="image/MODEL5..jpeg" class="feature-image">
+    
