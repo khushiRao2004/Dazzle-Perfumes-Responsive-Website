@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan',sans-serif;
+}
+
+/*.content h1{
+    font-size: 60px;
+    font-weight: 100px;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color: #232d60;
+}
+
+.content h2{
+    font-size: 46px;
+    line-height: 54px;
+    color: #222;
+}
+
+.content h4{
+    font-size: 20px;
+    color: #222;
+}
+
+.content h6{
+    font-size: 700;
+    font-size: 12px;
+}
+
+.content p{
+    font-size: 60px;
+    font-weight: 100px;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color: #232d60;
+}
+
+
+
+body{
+    width: 100%;
+}*/
+
+.logo{
+    width: 160px;
+    cursor: pointer;
+}
+
+
+.container{
+    height: 100vh;
+    width: cover;
+    background-image: url(image/background4.jpg);
+    background-position: center;
+    background-size: 100%;
+    padding-left: 5%;
+    padding-right: 50%;
+    box-sizing: border-box;
+    position: relative;
+
+}
+
+
+
+/*.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+    height: 15vh;
+
+}
+
+
+
+.cart{
+    width: 40px;
+    cursor: pointer;
+    color: antiquewhite;
+}
+
+nav{
+    flex: 1;
+    padding-left: 60px;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 0 20px;
+    position: relative;
+    display: inline-block;
+}
+
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+
+}
+
+
+.feature-img{
+    height: 90%;
+    width: 200%;
+    position: absolute;
+    bottom: 100%;
+    right: 160%;
+}
+*/
+
